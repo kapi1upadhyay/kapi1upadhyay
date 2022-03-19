@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1qHowTICRc1S5sHL07SIEEg_Q0qDaB5o8?usp=sharing](https://drive.google.com/drive/folders/1qHowTICRc1S5sHL07SIEEg_Q0qDaB5o8?usp=sharing)
-
 - 📫 How to reach me **kapil.7088upadhyay@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UVTwgwa2MPtZ8-BS0odYVAZ3ZA4wwhIn/view?usp=sharing](https://drive.google.com/file/d/1UVTwgwa2MPtZ8-BS0odYVAZ3ZA4wwhIn/view?usp=sharing)
