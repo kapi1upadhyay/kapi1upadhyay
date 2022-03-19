@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kapil Upadhyay</h1>
-<h3 align="center">Programmar|Developer|learner|B-tech Cse(2019-23)</h3>
+<h3 align="center">Programmar | Developer | learner | B-tech Cse(2019-23)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapi1upadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="kapi1upadhyay" /> </p>
 
