@@ -1,14 +1,14 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kapil Upadhyay</h1>
 <h3 align="center">Programmar|Developer|learner|B-tech Cse(2019-23)</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapi1upadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="kapi1upadhyay" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapi1upadhyay" alt="kapi1upadhyay" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kapilupadhyay_" target="blank"><img src="https://img.shields.io/twitter/follow/kapilupadhyay_?logo=twitter&style=for-the-badge" alt="kapilupadhyay_" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **Speech emotion system**
 
 - 🌱 I’m currently learning **Web Development**
