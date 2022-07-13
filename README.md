@@ -1,4 +1,4 @@
-<img align="center" width="500" src="https://repository-images.githubusercontent.com/118009182/6be53d00-bcec-11e9-937a-289171ed6857">
+
 <h1 align="center">Hi 👋, I'm Kapil Upadhyay</h1>
 <h3 align="center">Programmar|Developer|learner|B-tech Cse(2019-23)</h3>
 
