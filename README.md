@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/118009182/6be53d00-bcec-11e9-937a-289171ed6857)]
+<img align="center" width="500" src="https://repository-images.githubusercontent.com/118009182/6be53d00-bcec-11e9-937a-289171ed6857">
 <h1 align="center">Hi 👋, I'm Kapil Upadhyay</h1>
 <h3 align="center">Programmar|Developer|learner|B-tech Cse(2019-23)</h3>
 
@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapi1upadhyay" alt="kapi1upadhyay" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kapilupadhyay_" target="blank"><img src="https://img.shields.io/twitter/follow/kapilupadhyay_?logo=twitter&style=for-the-badge" alt="kapilupadhyay_" /></a> </p>
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="325" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **Speech emotion system**
 
 - 🌱 I’m currently learning **Web Development**
