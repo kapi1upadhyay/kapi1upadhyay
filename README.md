@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/kapilupadhyay_" target="blank"><img src="https://img.shields.io/twitter/follow/kapilupadhyay_?logo=twitter&style=for-the-badge" alt="kapilupadhyay_" /></a> </p>
+
 <img align="right" alt="Coding" width="325" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **Speech emotion system**
 
