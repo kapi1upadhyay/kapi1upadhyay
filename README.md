@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kapil.7088upadhyay@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1UVTwgwa2MPtZ8-BS0odYVAZ3ZA4wwhIn/view?usp=sharing](https://drive.google.com/drive/u/0/folders/1iAVy7giy74BdNvWOj0WhnLx1OI3sqER3)](https://drive.google.com/file/d/1UVTwgwa2MPtZ8-BS0odYVAZ3ZA4wwhIn/view?usp=sharing)
+- 📄 Know about my experiences [(https://drive.google.com/drive/u/0/folders/1iAVy7giy74BdNvWOj0WhnLx1OI3sqER3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
