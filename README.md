@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kapilupadhyay_" target="blank"><img src="https://img.shields.io/twitter/follow/kapilupadhyay_?logo=twitter&style=for-the-badge" alt="shivam56565" /></a> </p>
 
-- 🌱 I’m currently exploring **NERN**
+- 🌱 I’m currently exploring **Node-js**
 
 - 💬 Ask me about **Data structures and algorithems.**
 
