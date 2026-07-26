@@ -56,6 +56,6 @@
 A SAP Fiori Analytical List Page (ALP) application to track and visualize enterprise carbon emissions across business units, with AI-assisted insights using SAP Generative AI for natural language sustainability summaries.
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapi1upadhyay&show_icons=true&locale=en&layout=compact" alt="kapi1upadhyay" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapi1upadhyay&show_icons=true&locale=en" alt="kapi1upadhyay" /></p>
+<p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=kapi1upadhyay&show_icons=true&locale=en&layout=compact" alt="kapi1upadhyay" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=kapi1upadhyay&show_icons=true&locale=en" alt="kapi1upadhyay" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapi1upadhyay&" alt="kapi1upadhyay" /></p>
