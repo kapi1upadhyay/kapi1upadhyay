@@ -8,7 +8,7 @@
 - 🌱 I'm currently exploring **SAP Generative AI, SAP Joule, and AI-assisted enterprise development**
 - 💬 Ask me about **SAP Fiori, UI5, OData (V2/V4), CDS Views, and Data Structures & Algorithms**
 - 📫 How to reach me **kapilupadhyay.tech@gmail.com**
-- 📄 Check out my **[Resume](https://www.linkedin.com/in/kapil-upadhyay)** for SAP certifications & project details
+- 📄 Check out my **[Resume](https://www.linkedin.com/in/kapil-upadhyay-ba270a1b0/)** for SAP certifications & project details
 - ⚡ Fun fact: **I love solving coding problems — cleared Infosys HackWithInfy and ranked top 2% in GeeksforGeeks Job-a-thon.**
 
 <h3 align="left">Connect with me:</h3>
